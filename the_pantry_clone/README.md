@@ -1,1 +1,1 @@
-GitHub Checkout Assignment
+GitHub Checkpoint Assignment
